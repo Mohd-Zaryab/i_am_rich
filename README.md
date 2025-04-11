@@ -31,7 +31,7 @@ cd i_am_rich
 flutter pub get
 flutter run
 
-## 📂 Project Structure
+# 📂Project Structure
 
 i_am_rich/
 ├── lib/
