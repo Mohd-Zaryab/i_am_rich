@@ -1,16 +1,47 @@
-# i_am_rich
+# 💎 I Am Rich
 
-A new Flutter project.
+A minimal Flutter app that proudly displays wealth and confidence — inspired by the classic "I Am Rich" concept!
 
-## Getting Started
+## 📱 About the App
 
-This project is a starting point for a Flutter application.
+This is a basic Flutter application created as part of Angela Yu's Flutter Bootcamp. The app demonstrates how to:
 
-A few resources to get you started if this is your first Flutter project:
+- Set up a basic Flutter project
+- Use `Scaffold`, `AppBar`, and `Image` widgets
+- Work with assets (like images)
+- Create clean UI layouts
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖼️ Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![I Am Rich App Screenshot](assets/screenshot.png)  
+*(Add your actual screenshot to the `assets` folder and update the path above)*
+
+## 🛠️ Tech Stack
+
+- Flutter 💙
+- Dart 💻
+
+## 🚀 Getting Started
+
+To run this project on your local machine:
+
+```bash
+git clone https://github.com/Mohd-Zaryab/i_am_rich.git
+cd i_am_rich
+flutter pub get
+flutter run
+
+## 📂 Project Structure
+
+i_am_rich/
+├── lib/
+│   └── main.dart
+├── assets/
+│   └── diamond.png
+├── pubspec.yaml
+
+## ✍️ Author
+
+- [Mohammad Zaryab](https://github.com/Mohd-Zaryab)
+- 📧 mohd.zaryab@example.com
+- 💼 Currently learning Flutter & exploring tech ✨
